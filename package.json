@@ -10,7 +10,7 @@
     "express": "4.16.0",
     "lodash": "4.17.4",
     "jsonwebtoken": "8.3.0",
-    "mongoose": "5.7.5",
+    "mongoose": "9.2.4",
     "ejs": "2.7.4",
     "serialize-javascript": "1.9.1",
     "minimist": "1.2.0",
