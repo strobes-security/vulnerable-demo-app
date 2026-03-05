@@ -17,4 +17,4 @@ paramiko==2.7.1         # CVE-2023-48795 (Terrapin) — no SSH functionality
 lxml==4.6.2             # CVE-2021-28957 (XSS in clean) — no XML parsing in app
 cryptography==3.3.2     # CVE-2023-23931 — only pulled transitively, not direct use
 Jinja2==3.1.2           # Pinned but autoescaping is on; older version has edge cases
-numpy==1.21.0           # CVE-2021-33430 — imported nowhere, leftover from prototype
+numpy==2.4.2           # CVE-2021-33430 — imported nowhere, leftover from prototype
