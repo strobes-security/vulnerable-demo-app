@@ -1,6 +1,6 @@
 # Core dependencies (in use)
 Flask==2.2.0
-Flask-SQLAlchemy==3.0.2
+Flask-SQLAlchemy==3.1.1
 SQLAlchemy==1.4.46
 PyJWT==2.6.0
 requests==2.28.0
