@@ -4,7 +4,7 @@ Flask-SQLAlchemy==3.0.2
 SQLAlchemy==1.4.46
 PyJWT==2.6.0
 requests==2.28.0
-markupsafe==2.1.1
+markupsafe==3.0.3
 
 # --- Vulnerable deps NOT used by the application ---
 # These are leftover from earlier features or were added "just in case"
