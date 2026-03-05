@@ -20,7 +20,7 @@
     "helmet": "3.13.0",
     "jquery": "2.2.4",
     "moment": "2.19.2",
-    "handlebars": "4.0.11",
+    "handlebars": "4.7.8",
     "axios": "0.18.0"
   }
 }
