@@ -14,7 +14,7 @@
     "ejs": "2.7.4",
     "serialize-javascript": "1.9.1",
     "minimist": "1.2.0",
-    "node-fetch": "2.6.0",
+    "node-fetch": "3.3.2",
     "xmldom": "0.1.27",
     "marked": "0.3.6",
     "helmet": "3.13.0",
