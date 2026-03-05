@@ -16,7 +16,7 @@
     "minimist": "1.2.0",
     "node-fetch": "2.6.0",
     "xmldom": "0.1.27",
-    "marked": "0.3.6",
+    "marked": "17.0.4",
     "helmet": "3.13.0",
     "jquery": "2.2.4",
     "moment": "2.19.2",
